@@ -18,8 +18,8 @@ defaults:
     type: posts
   values:
     layout: post
-    ingredients: ""
-    instructions: ""
+    ingredients: ''
+    instructions: ''
     permalink: "/posts/:title/"
 - scope:
     path: ''
