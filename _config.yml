@@ -15,9 +15,9 @@ defaults:
   values:
     layout: post
     ingredients:
-      -
+    - 
     instructions:
-      -
+    - 
     permalink: "/posts/:title/"
 - scope:
     path: ''
