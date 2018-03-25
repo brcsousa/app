@@ -14,8 +14,10 @@ defaults:
     type: posts
   values:
     layout: post
-    ingredients: ''
-    instructions: ''
+    ingredients:
+      -
+    instructions:
+      -
     permalink: "/posts/:title/"
 - scope:
     path: ''
@@ -23,7 +25,3 @@ defaults:
   values:
     layout: page
 permalink: pretty
-List Field:
-- 
-Object Field:
-  Key 1: 
